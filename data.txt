@@ -1,0 +1,514 @@
+const articles = [
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/AChuckleFuck",
+    "title": "ScHoolboy Q is officially the opener for Kendrick Lamar's Grand National Tour in Aus/NZ this December.",
+    "description": "[Screenshot](https://pbs.twimg.com/media/GxORjXqXUAAA7qf?format=jpg&name=large)",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mejc42/schoolboy_q_is_officially_the_opener_for_kendrick/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T20:20:31Z",
+    "content": "[Screenshot](https://pbs.twimg.com/media/GxORjXqXUAAA7qf?format=jpg&name=large)",
+    "score": 2089,
+    "comments": 157,
+    "age": "46 hours ago",
+    "reddit_url": "https://reddit.com/r/hiphopheads/comments/1mejc42/schoolboy_q_is_officially_the_opener_for_kendrick/"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/SheLuvSeko",
+    "title": "[FRESH ALBUM] Metro Boomin - Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1memiwc/fresh_album_metro_boomin_metro_boomin_presents_a/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T23:00:08Z",
+    "content": "Reddit discussion: [FRESH ALBUM] Metro Boomin - Metro Boomin Presents: A Futuristic Summa (Hosted by DJ Spinz)",
+    "score": 1811,
+    "comments": 561,
+    "age": "43 hours ago",
+    "reddit_url": "https://open.spotify.com/album/48UcYpGBpoNhEJriPfZFWJ"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/abucalves",
+    "title": "[FRESH ALBUM] Chris Crack - White People Think God Left Them In Charge",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mecn54/fresh_album_chris_crack_white_people_think_god/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T15:32:50Z",
+    "content": "Reddit discussion: [FRESH ALBUM] Chris Crack - White People Think God Left Them In Charge",
+    "score": 865,
+    "comments": 212,
+    "age": "51 hours ago",
+    "reddit_url": "https://open.spotify.com/album/0sBRKiO5cMsPY4UEQnQvZu?si=bn8Px72ORVGMPGItTzJ1qg"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/Clean-Pop-5665",
+    "title": "[FRESH VIDEO] Freddie Gibbs & The Alchemist - A Thousand Mountains",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mebz05/fresh_video_freddie_gibbs_the_alchemist_a/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T15:07:04Z",
+    "content": "Reddit discussion: [FRESH VIDEO] Freddie Gibbs & The Alchemist - A Thousand Mountains",
+    "score": 763,
+    "comments": 67,
+    "age": "51 hours ago",
+    "reddit_url": "https://www.youtube.com/watch?v=k3OTpuNep_o"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/SheLuvSeko",
+    "title": "[FRESH EP] Yeat - DANGEROUS SUMMER",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1memils/fresh_ep_yeat_dangerous_summer/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T22:59:47Z",
+    "content": "Reddit discussion: [FRESH EP] Yeat - DANGEROUS SUMMER",
+    "score": 718,
+    "comments": 183,
+    "age": "43 hours ago",
+    "reddit_url": "https://music.apple.com/us/album/dangerous-summer/1830346710"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/CapitalismSuuucks",
+    "title": "Is mainstream hip-hop / rap really ageing? Yes, according to a look at the Top 50 most streamed artists on Spotify...",
+    "description": "I remember all the conversations about how stale the mainstream Hip-hop scene was in 2023, as well as all the doomery predictions about the future of the genre pre-2024 beef wars. After watching the r...",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mfqb5k/is_mainstream_hiphop_rap_really_ageing_yes/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-02T08:16:41Z",
+    "content": "I remember all the conversations about how stale the mainstream Hip-hop scene was in 2023, as well as all the doomery predictions about the future of the genre pre-2024 beef wars. After watching the recent video from F.D. Signifier on how hip-hop [\"has an ageing problem...kinda\"](https://youtu.be/idn7yJ2NGk4?si=JUdedc4fz4LTfqon), I decided to look up the ages of the Top 50 rap artists based on Spo...",
+    "score": 628,
+    "comments": 312,
+    "age": "10 hours ago",
+    "reddit_url": "https://reddit.com/r/hiphopheads/comments/1mfqb5k/is_mainstream_hiphop_rap_really_ageing_yes/"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/neillyy",
+    "title": "[FRESH ALBUM] Desiigner - ii",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1menaew/fresh_album_desiigner_ii/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T23:40:48Z",
+    "content": "Reddit discussion: [FRESH ALBUM] Desiigner - ii",
+    "score": 434,
+    "comments": 125,
+    "age": "43 hours ago",
+    "reddit_url": "https://open.spotify.com/album/1iv4QeAqe7XsA1b16QgJYC?si=MVbrFg2oSXGT0eqVl6896w"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/Obey",
+    "title": "[FRESH ALBUM] $uicideboy$ - THY KINGDOM COME",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1memit9/fresh_album_uicideboy_thy_kingdom_come/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T23:00:03Z",
+    "content": "Reddit discussion: [FRESH ALBUM] $uicideboy$ - THY KINGDOM COME",
+    "score": 368,
+    "comments": 98,
+    "age": "43 hours ago",
+    "reddit_url": "https://music.apple.com/us/album/thy-kingdom-come/1818471603"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/ebradio",
+    "title": "Erykah Badu and The Alchemist to Debut New Album Abi & Alan Live on Tour Ahead of August 29th Release",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mey2d5/erykah_badu_and_the_alchemist_to_debut_new_album/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-01T09:32:26Z",
+    "content": "Reddit discussion: Erykah Badu and The Alchemist to Debut New Album Abi & Alan Live on Tour Ahead of August 29th Release",
+    "score": 308,
+    "comments": 63,
+    "age": "33 hours ago",
+    "reddit_url": "https://consequence.net/2025/08/erykah-badu-the-alchemist-debut-new-album-abi-alan-live-tour-before-release-date/"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/notquitemytempo___",
+    "title": "Ghostface Killah Announces New Album 'Supreme Clientele 2', out August 22nd",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mewk8d/ghostface_killah_announces_new_album_supreme/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-01T08:30:53Z",
+    "content": "Reddit discussion: Ghostface Killah Announces New Album 'Supreme Clientele 2', out August 22nd",
+    "score": 284,
+    "comments": 31,
+    "age": "34 hours ago",
+    "reddit_url": "https://www.clashmusic.com/news/ghostface-killah-announces-new-album-supreme-clientele-2/"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/ImRBJ",
+    "title": "[FRESH ALBUM] BabyTron - Luka Troncic 2",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1men58k/fresh_album_babytron_luka_troncic_2/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T23:32:46Z",
+    "content": "Reddit discussion: [FRESH ALBUM] BabyTron - Luka Troncic 2",
+    "score": 239,
+    "comments": 74,
+    "age": "43 hours ago",
+    "reddit_url": "https://open.spotify.com/album/3t2W1mEvbZEhZvu0q0vMKp?si=SwdiPx5_SBauPy0cVj8Prw"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/Additional-Repair-72",
+    "title": "[FRESH] Ghostface Killah - Rap Kingpin",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1medvkv/fresh_ghostface_killah_rap_kingpin/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T16:20:55Z",
+    "content": "Reddit discussion: [FRESH] Ghostface Killah - Rap Kingpin",
+    "score": 210,
+    "comments": 78,
+    "age": "50 hours ago",
+    "reddit_url": "https://www.youtube.com/watch?v=gvt5VF5WKM8&pp=ygUQR2hvc3RmYWNlIGtpbGxhaA%3D%3D"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/DropWatcher",
+    "title": "Drop Watch: 08.01.2025",
+    "description": "#LPs\n\n- **Metro Boomin & DJ Spinz - A Futuristic Summer** (w Roscoe Dash + more) **[Trap]**\n- **Busta Rhymes - Dragon Season** (w Killer Mike, Benny the Butcher, Conway the Machine, Tobe Nwigwe, 38 Sp...",
+    "url": "https://reddit.com/r/hiphopheads/comments/1meb7p2/drop_watch_08012025/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T14:37:52Z",
+    "content": "#LPs\n\n- **Metro Boomin & DJ Spinz - A Futuristic Summer** (w Roscoe Dash + more) **[Trap]**\n- **Busta Rhymes - Dragon Season** (w Killer Mike, Benny the Butcher, Conway the Machine, Tobe Nwigwe, 38 Spesh, Symba, LaRussell, Russ + more) **[East Coast Rap]**\n- **Yeat - Dangerous Summer [Rage]**\n- [**$uicideboy$ - Thy Kingdom Come**](https://open.spotify.com/prerelease/3FR1vvMkOlzkJ0ddyYUAIO) (w BONE...",
+    "score": 181,
+    "comments": 64,
+    "age": "52 hours ago",
+    "reddit_url": "https://reddit.com/r/hiphopheads/comments/1meb7p2/drop_watch_08012025/"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/rierrium",
+    "title": "[FIRST IMPRESSIONS] Metro Boomin - Metro Boomin Presents: A Futuristic Summa",
+    "description": "Been over 24 hours. How we feeling? Personally I liked it and the nostalgia it brings. Sometimes you just wanna hit play and enjoy which Metro delivered perfectly. Many featured artists who are low-ke...",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mfl76p/first_impressions_metro_boomin_metro_boomin/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-02T03:09:46Z",
+    "content": "Been over 24 hours. How we feeling? Personally I liked it and the nostalgia it brings. Sometimes you just wanna hit play and enjoy which Metro delivered perfectly. Many featured artists who are low-key so its a good plug to check out their discographies as well. Disc 1's stronger for me.",
+    "score": 179,
+    "comments": 118,
+    "age": "15 hours ago",
+    "reddit_url": "https://reddit.com/r/hiphopheads/comments/1mfl76p/first_impressions_metro_boomin_metro_boomin/"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/DragonballDurag",
+    "title": "[FRESH ALBUM] Juicy J - Head On Swivel",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1meocvq/fresh_album_juicy_j_head_on_swivel/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-01T00:42:48Z",
+    "content": "Reddit discussion: [FRESH ALBUM] Juicy J - Head On Swivel",
+    "score": 172,
+    "comments": 35,
+    "age": "42 hours ago",
+    "reddit_url": "https://open.spotify.com/album/6pCZ5PKVR7emIMYKzr6qGS?si=xPN4O-nfQPmL4GOEH1wq5w"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/ozeeSF",
+    "title": "[FRESH] DJ Premier & Roc Marciano - Prayer Hands",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mepa1o/fresh_dj_premier_roc_marciano_prayer_hands/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-01T01:39:14Z",
+    "content": "Reddit discussion: [FRESH] DJ Premier & Roc Marciano - Prayer Hands",
+    "score": 128,
+    "comments": 6,
+    "age": "41 hours ago",
+    "reddit_url": "https://open.spotify.com/track/2rLIyWoktQBSNgWI50OsC4?si=OZKThOBfRKmXxry4vqgUNg"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/BOUNTYBOOTreddit",
+    "title": "[FRESH VIDEO] Yeat - PUT IT ONG (Directed by Cole Bennett)",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mf2pvm/fresh_video_yeat_put_it_ong_directed_by_cole/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-01T12:29:46Z",
+    "content": "Reddit discussion: [FRESH VIDEO] Yeat - PUT IT ONG (Directed by Cole Bennett)",
+    "score": 115,
+    "comments": 104,
+    "age": "30 hours ago",
+    "reddit_url": "https://youtu.be/oDvMcJZqYrY?si=8nyt7bBS8tRhYqxD"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/Dr1ftMan",
+    "title": "[FRESH EP] Domo Genesis & Graymatter - WORLD GONE MAD",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1memqh9/fresh_ep_domo_genesis_graymatter_world_gone_mad/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T23:10:32Z",
+    "content": "Reddit discussion: [FRESH EP] Domo Genesis & Graymatter - WORLD GONE MAD",
+    "score": 114,
+    "comments": 8,
+    "age": "43 hours ago",
+    "reddit_url": "https://open.spotify.com/album/3U5SXb7g5qciMdge81y6yZ?si=V1ynrejmQvWeB89Y4gil5w"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/ArthPorto",
+    "title": "[FIRST IMPRESSIONS] Yeat - Dangerous Summer",
+    "description": "No one posted about it and more than 24h have passed. Anyway, what are your thoughts on the 11 track EP (as absurd as that sounds)?",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mfnvj8/first_impressions_yeat_dangerous_summer/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-02T06:06:51Z",
+    "content": "No one posted about it and more than 24h have passed. Anyway, what are your thoughts on the 11 track EP (as absurd as that sounds)?",
+    "score": 106,
+    "comments": 53,
+    "age": "12 hours ago",
+    "reddit_url": "https://reddit.com/r/hiphopheads/comments/1mfnvj8/first_impressions_yeat_dangerous_summer/"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/Nigoshi",
+    "title": "Is Black Thought REALLY Better Than Jay-Z? - Rob Markman",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mf57g1/is_black_thought_really_better_than_jayz_rob/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-01T14:03:58Z",
+    "content": "Reddit discussion: Is Black Thought REALLY Better Than Jay-Z? - Rob Markman",
+    "score": 106,
+    "comments": 180,
+    "age": "28 hours ago",
+    "reddit_url": "https://www.youtube.com/watch?v=bPgv0pIJsCw"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/PlayaSlayaX",
+    "title": "[FRESH ALBUM] Homixide Gang \u2013 Homixide Lifestyle 2",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1memi4s/fresh_album_homixide_gang_homixide_lifestyle_2/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T22:59:04Z",
+    "content": "Reddit discussion: [FRESH ALBUM] Homixide Gang \u2013 Homixide Lifestyle 2",
+    "score": 103,
+    "comments": 35,
+    "age": "43 hours ago",
+    "reddit_url": "https://music.apple.com/us/album/homixide-lifestyle-2/1830323474"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/Renegadeforever2024",
+    "title": "Disclosure ft. Anderson Paak. - No Cap coming 8/6",
+    "description": "I\u2019m super excited for this and I feel like people have forgotten how good disclosure can be which potentially lead to a album in the near future \n\nhttps://www.reddit.com/r/AndersonPaak/s/XxQJNGgbqC\n\n",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mfaqd6/disclosure_ft_anderson_paak_no_cap_coming_86/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-01T17:49:48Z",
+    "content": "I\u2019m super excited for this and I feel like people have forgotten how good disclosure can be which potentially lead to a album in the near future \n\nhttps://www.reddit.com/r/AndersonPaak/s/XxQJNGgbqC\n\n",
+    "score": 93,
+    "comments": 6,
+    "age": "25 hours ago",
+    "reddit_url": "https://reddit.com/r/hiphopheads/comments/1mfaqd6/disclosure_ft_anderson_paak_no_cap_coming_86/"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/Robinnoodle",
+    "title": "[FRESH VIDEO] YG & Leon Thomas - Lovers Or Friends",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mf1h3b/fresh_video_yg_leon_thomas_lovers_or_friends/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-01T11:42:59Z",
+    "content": "Reddit discussion: [FRESH VIDEO] YG & Leon Thomas - Lovers Or Friends",
+    "score": 84,
+    "comments": 19,
+    "age": "31 hours ago",
+    "reddit_url": "https://youtu.be/PSRlWxnrxVI?si=9PnqP4kTcsdPeJEz"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/microzone",
+    "title": "[FRESH] Metro Boomin, Gucci Mane, Hoodrich Pablo Juan, QUE., Young Dro - They Wanna Have Fun",
+    "description": "Metro Boomin, Gucci Mane, Hoodrich Pablo Juan, QUE., Young Dro - They Wanna Have Fun",
+    "url": "https://reddit.com/r/hiphopheads/comments/1memvz8/fresh_metro_boomin_gucci_mane_hoodrich_pablo_juan/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T23:18:35Z",
+    "content": "Metro Boomin, Gucci Mane, Hoodrich Pablo Juan, QUE., Young Dro - They Wanna Have Fun",
+    "score": 80,
+    "comments": 11,
+    "age": "43 hours ago",
+    "reddit_url": "https://open.spotify.com/track/7c2TmvPFi0AG5Vbw21XovM?si=1JcMWe80TRGKFbwXkC_Mxg"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/Robinnoodle",
+    "title": "[FRESH VIDEO] Pete & Bas - South Eastenders",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mf9tvd/fresh_video_pete_bas_south_eastenders/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-01T17:10:56Z",
+    "content": "Reddit discussion: [FRESH VIDEO] Pete & Bas - South Eastenders",
+    "score": 67,
+    "comments": 19,
+    "age": "25 hours ago",
+    "reddit_url": "https://youtu.be/a4fQAKd1nj8?si=SkLO7fEbdYFrrvkM"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/Robinnoodle",
+    "title": "[FRESH] Juicy J feat. Denzel Curry - Achieve It",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mf29by/fresh_juicy_j_feat_denzel_curry_achieve_it/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-01T12:12:29Z",
+    "content": "Reddit discussion: [FRESH] Juicy J feat. Denzel Curry - Achieve It",
+    "score": 66,
+    "comments": 3,
+    "age": "30 hours ago",
+    "reddit_url": "https://youtu.be/kkoaC_rjoyU?si=oRL9AhfhtmqLwUxJ"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/Brian96",
+    "title": "[FRESH VIDEO] Conway the Machine - Se7enteen5ive",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mf13ug/fresh_video_conway_the_machine_se7enteen5ive/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-01T11:28:44Z",
+    "content": "Reddit discussion: [FRESH VIDEO] Conway the Machine - Se7enteen5ive",
+    "score": 63,
+    "comments": 5,
+    "age": "31 hours ago",
+    "reddit_url": "https://youtu.be/xH5-xtlvvKg?si=kUPHSHPVUsqo1QBR"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/Longjumping_Yak_6420",
+    "title": "Lil Wayne - Family Feud feat. Drake",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mfp8qc/lil_wayne_family_feud_feat_drake/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-02T07:23:05Z",
+    "content": "Reddit discussion: Lil Wayne - Family Feud feat. Drake",
+    "score": 56,
+    "comments": 31,
+    "age": "11 hours ago",
+    "reddit_url": "https://www.youtube.com/watch?v=PjqKPHZJgF0&ab_channel=LilWayne"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/jeteejetee",
+    "title": "[FRESH EP] xaviersobased - once more",
+    "description": "",
+    "url": "https://reddit.com/r/hiphopheads/comments/1memtid/fresh_ep_xaviersobased_once_more/",
+    "urlToImage": null,
+    "publishedAt": "2025-07-31T23:14:55Z",
+    "content": "Reddit discussion: [FRESH EP] xaviersobased - once more",
+    "score": 56,
+    "comments": 13,
+    "age": "43 hours ago",
+    "reddit_url": "https://open.spotify.com/album/6y7idGujMEjogehrkV8J64?si=_meAeUVUTcKdoGQF0VbIKw"
+  },
+  {
+    "source": {
+      "id": "reddit-hiphopheads",
+      "name": "r/hiphopheads (Hot)"
+    },
+    "author": "u/EminemEncore2004",
+    "title": "Eminem - Hail Mary ft. 50 Cent & Busta Rhymes",
+    "description": "Produced by Hurt-M-Badd",
+    "url": "https://reddit.com/r/hiphopheads/comments/1mftxea/eminem_hail_mary_ft_50_cent_busta_rhymes/",
+    "urlToImage": null,
+    "publishedAt": "2025-08-02T10:53:12Z",
+    "content": "Produced by Hurt-M-Badd",
+    "score": 45,
+    "comments": 9,
+    "age": "7 hours ago",
+    "reddit_url": "https://www.youtube.com/watch?v=5YLBTWZimuU"
+  }
+];
+
+export default articles;

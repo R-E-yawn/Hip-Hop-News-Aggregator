@@ -1,0 +1,759 @@
+{
+  "user_profile": {
+    "id": "5or9cw9a7s1hijzqwe42t23ec",
+    "display_name": "Aryan Tyagi",
+    "followers": 1,
+    "country": "N/A",
+    "email": "aruntyagi1@gmail.com"
+  },
+  "top_artists": {
+    "short_term": [
+      {
+        "name": "The Weeknd",
+        "genres": [],
+        "popularity": 97
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "rap"
+        ],
+        "popularity": 99
+      },
+      {
+        "name": "JAY-Z",
+        "genres": [
+          "hip hop",
+          "east coast hip hop",
+          "rap"
+        ],
+        "popularity": 86
+      },
+      {
+        "name": "Eminem",
+        "genres": [
+          "rap",
+          "hip hop"
+        ],
+        "popularity": 92
+      },
+      {
+        "name": "Tyler, The Creator",
+        "genres": [],
+        "popularity": 93
+      },
+      {
+        "name": "DJ Khaled",
+        "genres": [],
+        "popularity": 77
+      },
+      {
+        "name": "Metro Boomin",
+        "genres": [],
+        "popularity": 87
+      },
+      {
+        "name": "mgk",
+        "genres": [],
+        "popularity": 81
+      },
+      {
+        "name": "Future",
+        "genres": [
+          "rap"
+        ],
+        "popularity": 92
+      },
+      {
+        "name": "Kanye West",
+        "genres": [
+          "rap"
+        ],
+        "popularity": 93
+      },
+      {
+        "name": "Shawn Mendes",
+        "genres": [],
+        "popularity": 85
+      },
+      {
+        "name": "Belly",
+        "genres": [],
+        "popularity": 58
+      },
+      {
+        "name": "50 Cent",
+        "genres": [
+          "east coast hip hop",
+          "old school hip hop"
+        ],
+        "popularity": 86
+      },
+      {
+        "name": "Harry Styles",
+        "genres": [],
+        "popularity": 85
+      },
+      {
+        "name": "Justin Bieber",
+        "genres": [],
+        "popularity": 97
+      },
+      {
+        "name": "Post Malone",
+        "genres": [],
+        "popularity": 90
+      },
+      {
+        "name": "Bruno Mars",
+        "genres": [],
+        "popularity": 93
+      },
+      {
+        "name": "P!nk",
+        "genres": [],
+        "popularity": 82
+      },
+      {
+        "name": "Nas",
+        "genres": [
+          "east coast hip hop",
+          "old school hip hop",
+          "hip hop"
+        ],
+        "popularity": 75
+      },
+      {
+        "name": "Frank Ocean",
+        "genres": [],
+        "popularity": 88
+      }
+    ],
+    "medium_term": [
+      {
+        "name": "The Weeknd",
+        "genres": [],
+        "popularity": 97
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "rap"
+        ],
+        "popularity": 99
+      },
+      {
+        "name": "Kanye West",
+        "genres": [
+          "rap"
+        ],
+        "popularity": 93
+      },
+      {
+        "name": "Eminem",
+        "genres": [
+          "rap",
+          "hip hop"
+        ],
+        "popularity": 92
+      },
+      {
+        "name": "Lil Wayne",
+        "genres": [
+          "rap",
+          "hip hop"
+        ],
+        "popularity": 90
+      },
+      {
+        "name": "JAY-Z",
+        "genres": [
+          "hip hop",
+          "east coast hip hop",
+          "rap"
+        ],
+        "popularity": 86
+      },
+      {
+        "name": "Justin Timberlake",
+        "genres": [],
+        "popularity": 85
+      },
+      {
+        "name": "Future",
+        "genres": [
+          "rap"
+        ],
+        "popularity": 92
+      },
+      {
+        "name": "Justin Bieber",
+        "genres": [],
+        "popularity": 97
+      },
+      {
+        "name": "Kendrick Lamar",
+        "genres": [
+          "hip hop",
+          "west coast hip hop"
+        ],
+        "popularity": 94
+      },
+      {
+        "name": "Frank Ocean",
+        "genres": [],
+        "popularity": 88
+      },
+      {
+        "name": "50 Cent",
+        "genres": [
+          "east coast hip hop",
+          "old school hip hop"
+        ],
+        "popularity": 86
+      },
+      {
+        "name": "Migos",
+        "genres": [
+          "trap"
+        ],
+        "popularity": 78
+      },
+      {
+        "name": "mgk",
+        "genres": [],
+        "popularity": 81
+      },
+      {
+        "name": "Travis Scott",
+        "genres": [
+          "rap"
+        ],
+        "popularity": 95
+      },
+      {
+        "name": "Shawn Mendes",
+        "genres": [],
+        "popularity": 85
+      },
+      {
+        "name": "Michael Jackson",
+        "genres": [],
+        "popularity": 87
+      },
+      {
+        "name": "Bruno Mars",
+        "genres": [],
+        "popularity": 93
+      },
+      {
+        "name": "Katy Perry",
+        "genres": [
+          "pop"
+        ],
+        "popularity": 88
+      },
+      {
+        "name": "Post Malone",
+        "genres": [],
+        "popularity": 90
+      }
+    ],
+    "long_term": [
+      {
+        "name": "The Weeknd",
+        "genres": [],
+        "popularity": 97
+      },
+      {
+        "name": "Future",
+        "genres": [
+          "rap"
+        ],
+        "popularity": 92
+      },
+      {
+        "name": "Drake",
+        "genres": [
+          "rap"
+        ],
+        "popularity": 99
+      },
+      {
+        "name": "BTS",
+        "genres": [
+          "k-pop"
+        ],
+        "popularity": 90
+      },
+      {
+        "name": "Lil Wayne",
+        "genres": [
+          "rap",
+          "hip hop"
+        ],
+        "popularity": 90
+      },
+      {
+        "name": "Kanye West",
+        "genres": [
+          "rap"
+        ],
+        "popularity": 93
+      },
+      {
+        "name": "50 Cent",
+        "genres": [
+          "east coast hip hop",
+          "old school hip hop"
+        ],
+        "popularity": 86
+      },
+      {
+        "name": "Lil Baby",
+        "genres": [],
+        "popularity": 89
+      },
+      {
+        "name": "Eminem",
+        "genres": [
+          "rap",
+          "hip hop"
+        ],
+        "popularity": 92
+      },
+      {
+        "name": "JAY-Z",
+        "genres": [
+          "hip hop",
+          "east coast hip hop",
+          "rap"
+        ],
+        "popularity": 86
+      },
+      {
+        "name": "Blueface",
+        "genres": [],
+        "popularity": 66
+      },
+      {
+        "name": "DJ Khaled",
+        "genres": [],
+        "popularity": 77
+      },
+      {
+        "name": "6ix9ine",
+        "genres": [],
+        "popularity": 73
+      },
+      {
+        "name": "Justin Bieber",
+        "genres": [],
+        "popularity": 97
+      },
+      {
+        "name": "Daft Punk",
+        "genres": [
+          "french house",
+          "electronic",
+          "electro"
+        ],
+        "popularity": 83
+      },
+      {
+        "name": "Fall Out Boy",
+        "genres": [
+          "emo",
+          "pop punk"
+        ],
+        "popularity": 81
+      },
+      {
+        "name": "Frank Ocean",
+        "genres": [],
+        "popularity": 88
+      },
+      {
+        "name": "Migos",
+        "genres": [
+          "trap"
+        ],
+        "popularity": 78
+      },
+      {
+        "name": "Kendrick Lamar",
+        "genres": [
+          "hip hop",
+          "west coast hip hop"
+        ],
+        "popularity": 94
+      },
+      {
+        "name": "Travis Scott",
+        "genres": [
+          "rap"
+        ],
+        "popularity": 95
+      }
+    ]
+  },
+  "top_tracks": {
+    "short_term": [
+      {
+        "name": "Belly, The Weeknd - Die For It (ft. Nas)",
+        "artist": "Belly",
+        "popularity": 46
+      },
+      {
+        "name": "Adore You",
+        "artist": "Harry Styles",
+        "popularity": 84
+      },
+      {
+        "name": "Major Bag Alert (feat. Migos)",
+        "artist": "DJ Khaled",
+        "popularity": 40
+      },
+      {
+        "name": "Do It",
+        "artist": "The Noise",
+        "popularity": 54
+      },
+      {
+        "name": "Shut Up And Drive",
+        "artist": "Rihanna",
+        "popularity": 69
+      },
+      {
+        "name": "Drive (From F1\u00ae The Movie)",
+        "artist": "Ed Sheeran",
+        "popularity": 80
+      },
+      {
+        "name": "Overdue (with Travis Scott)",
+        "artist": "Metro Boomin",
+        "popularity": 76
+      },
+      {
+        "name": "Already Home",
+        "artist": "JAY-Z",
+        "popularity": 51
+      },
+      {
+        "name": "Starboy",
+        "artist": "The Weeknd",
+        "popularity": 91
+      },
+      {
+        "name": "House Of Balloons / Glass Table Girls",
+        "artist": "The Weeknd",
+        "popularity": 80
+      },
+      {
+        "name": "Blessings",
+        "artist": "Big Sean",
+        "popularity": 65
+      },
+      {
+        "name": "Takeover",
+        "artist": "JAY-Z",
+        "popularity": 50
+      },
+      {
+        "name": "Dirt Off Your Shoulder",
+        "artist": "JAY-Z",
+        "popularity": 64
+      },
+      {
+        "name": "GONER (Acoustic)",
+        "artist": "Tom Cooper",
+        "popularity": 44
+      },
+      {
+        "name": "No Love",
+        "artist": "Moneybagg Yo",
+        "popularity": 41
+      },
+      {
+        "name": "Golden",
+        "artist": "Harry Styles",
+        "popularity": 76
+      },
+      {
+        "name": "9",
+        "artist": "Drake",
+        "popularity": 83
+      },
+      {
+        "name": "Ima Boss (feat. Rick Ross)",
+        "artist": "Meek Mill",
+        "popularity": 67
+      },
+      {
+        "name": "Too Much",
+        "artist": "Drake",
+        "popularity": 63
+      },
+      {
+        "name": "Hustler's Ambition",
+        "artist": "50 Cent",
+        "popularity": 52
+      }
+    ],
+    "medium_term": [
+      {
+        "name": "Batman Beyond Main Title",
+        "artist": "Kristopher Carter",
+        "popularity": 37
+      },
+      {
+        "name": "Till I Collapse",
+        "artist": "Eminem",
+        "popularity": 85
+      },
+      {
+        "name": "Yamborghini High (feat. Juicy J)",
+        "artist": "A$AP Mob",
+        "popularity": 62
+      },
+      {
+        "name": "No Love",
+        "artist": "Moneybagg Yo",
+        "popularity": 41
+      },
+      {
+        "name": "Best Rapper Alive",
+        "artist": "Lil Wayne",
+        "popularity": 52
+      },
+      {
+        "name": "T-Shirt",
+        "artist": "Migos",
+        "popularity": 69
+      },
+      {
+        "name": "I Feel It Coming",
+        "artist": "The Weeknd",
+        "popularity": 80
+      },
+      {
+        "name": "Bad Mother F*cker",
+        "artist": "mgk",
+        "popularity": 63
+      },
+      {
+        "name": "Beauty And A Beat",
+        "artist": "Justin Bieber",
+        "popularity": 85
+      },
+      {
+        "name": "Digital Dash",
+        "artist": "Drake",
+        "popularity": 67
+      },
+      {
+        "name": "Push It",
+        "artist": "Rick Ross",
+        "popularity": 57
+      },
+      {
+        "name": "Armed & Dangerous",
+        "artist": "King Von",
+        "popularity": 80
+      },
+      {
+        "name": "The Batman Main Theme (From \"The Batman Animated TV Show\")",
+        "artist": "Geek Music",
+        "popularity": 22
+      },
+      {
+        "name": "Wipe Me Down (feat. Foxx, Webbie & Boosie Badazz) - Remix",
+        "artist": "Trill Family",
+        "popularity": 67
+      },
+      {
+        "name": "Belly, The Weeknd - Die For It (ft. Nas)",
+        "artist": "Belly",
+        "popularity": 46
+      },
+      {
+        "name": "Peso",
+        "artist": "A$AP Rocky",
+        "popularity": 70
+      },
+      {
+        "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+        "artist": "A$AP Rocky",
+        "popularity": 79
+      },
+      {
+        "name": "Sidewalks",
+        "artist": "The Weeknd",
+        "popularity": 73
+      },
+      {
+        "name": "Bonfire",
+        "artist": "Childish Gambino",
+        "popularity": 72
+      },
+      {
+        "name": "U Played (feat. Lil Baby)",
+        "artist": "Moneybagg Yo",
+        "popularity": 67
+      }
+    ],
+    "long_term": [
+      {
+        "name": "Starboy",
+        "artist": "The Weeknd",
+        "popularity": 91
+      },
+      {
+        "name": "Best Rapper Alive",
+        "artist": "Lil Wayne",
+        "popularity": 20
+      },
+      {
+        "name": "Mask Off",
+        "artist": "Future",
+        "popularity": 84
+      },
+      {
+        "name": "Everybody Shooters Too",
+        "artist": "42 Dugg",
+        "popularity": 64
+      },
+      {
+        "name": "Who Hotter Than Gee",
+        "artist": "EST Gee",
+        "popularity": 39
+      },
+      {
+        "name": "Stuntin' Like My Daddy - Street",
+        "artist": "Birdman",
+        "popularity": 64
+      },
+      {
+        "name": "100 Shots",
+        "artist": "Young Dolph",
+        "popularity": 70
+      },
+      {
+        "name": "Attack on Titan",
+        "artist": "Mox Jade",
+        "popularity": 14
+      },
+      {
+        "name": "I Feel It Coming",
+        "artist": "The Weeknd",
+        "popularity": 79
+      },
+      {
+        "name": "Like That",
+        "artist": "Future",
+        "popularity": 85
+      },
+      {
+        "name": "Silver Spoon",
+        "artist": "BTS",
+        "popularity": 71
+      },
+      {
+        "name": "Racks",
+        "artist": "YC Worldwide",
+        "popularity": 50
+      },
+      {
+        "name": "Bangarang (feat. Sirah)",
+        "artist": "Skrillex",
+        "popularity": 71
+      },
+      {
+        "name": "The Hills",
+        "artist": "The Weeknd",
+        "popularity": 87
+      },
+      {
+        "name": "MIC Drop (Steve Aoki Remix) (Full Length Edition)",
+        "artist": "BTS",
+        "popularity": 71
+      },
+      {
+        "name": "Techno Syndrome (Mortal Kombat)",
+        "artist": "The Immortals",
+        "popularity": 60
+      },
+      {
+        "name": "Batman Beyond Main Title",
+        "artist": "Kristopher Carter",
+        "popularity": 37
+      },
+      {
+        "name": "6 Foot 7 Foot",
+        "artist": "Lil Wayne",
+        "popularity": 74
+      },
+      {
+        "name": "Right Above It",
+        "artist": "Lil Wayne",
+        "popularity": 72
+      },
+      {
+        "name": "Prada",
+        "artist": "cass\u00f6",
+        "popularity": 82
+      }
+    ]
+  },
+  "saved_tracks_count": 380,
+  "playlists": [
+    {
+      "name": "Full EHRLING - Youtube playlist - Nu lounge Bar music saxophone",
+      "tracks": 69
+    },
+    {
+      "name": "Jazz",
+      "tracks": 7
+    },
+    {
+      "name": "EDM Focus (No vocals)",
+      "tracks": 110
+    },
+    {
+      "name": "Top Hits of 2014",
+      "tracks": 68
+    },
+    {
+      "name": "Motivation \ud83d\udcaa\ud83c\udffd",
+      "tracks": 14
+    },
+    {
+      "name": "My 2024 Playlist in a Bottle",
+      "tracks": 8
+    },
+    {
+      "name": "\ud83d\udcb0",
+      "tracks": 6
+    },
+    {
+      "name": "lofi Jazz Cafe \ud83c\udfb7Study Beats & Chill Vibes",
+      "tracks": 383
+    },
+    {
+      "name": "playlist",
+      "tracks": 12
+    },
+    {
+      "name": "BTS",
+      "tracks": 13
+    },
+    {
+      "name": "Gym",
+      "tracks": 24
+    },
+    {
+      "name": "Indian",
+      "tracks": 69
+    }
+  ]
+}

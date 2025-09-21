@@ -3,11 +3,20 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter } from 'react-router-dom';
+import Spotify from './components/Spotify';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <h1 className="rap-news">rap n<span className="extra-space">e</span>ws</h1>
+    
+    <BrowserRouter>
+      <Spotify/>
+      <App />
+    </BrowserRouter>
+    
   </React.StrictMode>
 );
 

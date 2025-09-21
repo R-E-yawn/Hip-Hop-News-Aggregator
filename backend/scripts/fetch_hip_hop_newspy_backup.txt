@@ -1,0 +1,7 @@
+import requests
+import json
+
+response = requests.get("https://newsapi.org/v2/everything?q=(hip hop OR rap OR rapper) AND (new music OR album OR single OR track OR release OR debut OR drops OR announces) -crime -arrest -shooting -murder -death -jail -prison&from=2025-06-30&sortBy=publishedAt&language=en&pageSize=100&apiKey=16e19aeccf1741178b1e20ac86da364f")
+data = response.json()
+
+print(json.dumps(data, indent=2))

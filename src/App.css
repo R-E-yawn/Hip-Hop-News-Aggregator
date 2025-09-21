@@ -1,38 +1,174 @@
-.App {
+/* ---------- Feed grid ---------- */
+.feed {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 40px 32px;
+  width: 90%;
+  margin: 0 auto;
+}
+
+/* ---------- Card component ---------- */
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 280px; /* Fixed height for consistency */
+  border-radius: 8px;
+  overflow: hidden;
+  border: 3px solid #000;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.12);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+  text-decoration: none;
+  color: inherit;
+  padding: 0;
+  background-color: white;
+}
+
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+  border-bottom: 1px solid #000;
+  margin: 0;
+  padding: 0;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  flex-shrink: 0; /* Prevent image from shrinking */
+}
+
+.card-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 16px;
+  justify-content: center;
+}
+
+.card h4 {
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+/* ---------- Cards without images ---------- */
+.card-no-image {
+  justify-content: center;
+  align-items: center;
+}
+
+.card-no-image .card-content {
+  padding: 24px;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-no-image h4 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 16px;
+  line-height: 1.4;
+}
+
+/* ---------- Reddit-specific info ---------- */
+.reddit-info {
+  margin-top: 12px;
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.reddit-source {
+  display: block;
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 8px;
+  font-weight: 500;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.reddit-stats {
   display: flex;
-  flex-direction: column;
-  align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  gap: 16px;
+  font-size: 0.9rem;
+  color: #888;
+  font-weight: 500;
+}
+
+.reddit-stats span {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+/* ---------- Spotify Login Button ---------- */
+.spotify-container {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  z-index: 100;
+}
+
+.spotify-login-btn {
+  display: inline-flex;
+  align-items: center;
+  padding: 20px 32px;
+  background-color: #1DB954;
   color: white;
+  text-decoration: none;
+  border-radius: 12px;
+  border: 3px solid #000;
+  font-weight: 700;
+  font-size: 1.3rem;
+  cursor: pointer;
+  transition: transform 0.2s ease;
 }
 
-.App-link {
-  color: #61dafb;
+.spotify-login-btn:hover {
+  transform: translateY(-3px);
+  color: white;
+  text-decoration: none;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* ---------- Hover effects ---------- */
+.card:hover {
+  box-shadow: 0 15px 30px rgba(0,0,0,0.4);
+  transform: translateY(-8px);
+}
+
+/* ---------- Page title ---------- */
+.title {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 80px;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+body {
+  background-image: 
+    linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+    url('./assets/images/image.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+@font-face {
+  font-family: 'Underground';
+  src: url('./assets/fonts/08 Underground.ttf') format('truetype');
+}
+
+.rap-news {
+  font-family: 'Underground', Arial, sans-serif;
+  text-align: center;
+  color: rgb(255, 213, 0);
+  margin: 20px 0 30px 0;
+  font-size: 6rem;
+  font-weight: normal;
+}
+
+.extra-space {
+  margin-left: 6.5px; /* Adjust the spacing */
 }

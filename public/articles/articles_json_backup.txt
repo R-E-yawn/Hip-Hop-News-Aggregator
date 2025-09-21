@@ -1,0 +1,834 @@
+[
+    {
+      "source": {
+        "id": null,
+        "name": "HipHopDX"
+      },
+      "author": "Sam Moore",
+      "title": "Dr. Dre\u2019s Mixing Console Sells For Huge Amount At Auction",
+      "description": "Other items sold include handwritten Snoop Dogg lyrics.\nThe post Dr. Dre\u2019s Mixing Console Sells For Huge Amount At Auction appeared first on HipHopDX.",
+      "url": "http://hiphopdx.com/news/dr-dre-mixing-console-sells-huge-amount-auction/",
+      "urlToImage": "https://hiphopdx.com/wp-content/uploads/2025/07/Dr.-Dres-Mixing-Console-Sells-For-Huge-Amount-At-Auction.jpg",
+      "publishedAt": "2025-07-29T21:00:50Z",
+      "content": "Dr. Dre\u2018s mixing console, which he used on records for N.W.A., Eminem and Kendrick Lamar among others has been sold at auction.\r\nThe SSL 4000 G+ mixing console was auctioned off for the huge price of\u2026 [+2298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sneaker News"
+      },
+      "author": "Matt Varga",
+      "title": "The New Balance 2002R Goes Futuristic With Two Leather Looks",
+      "description": "Though classed with the New Balance 860v2 and New Balance 1906R due to the timing of its introduction and a shared sole unit across the...\n\n\u00a9 Sneaker News, 2025. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post The New Balance 2002R Goes Futuristic Wit\u2026",
+      "url": "https://sneakernews.com/2025/07/29/new-balance-2002r-silver-black-u2002rf/",
+      "urlToImage": "https://sneakernews.com/wp-content/uploads/2025/07/new-balance-2002r-u2002re-u2002rf.jpg",
+      "publishedAt": "2025-07-29T21:00:06Z",
+      "content": "Though classed with the New Balance 860v2 and New Balance 1906R due to the timing of its introduction and a shared sole unit across the three silhouettes, the New Balance 2002R is of a different scho\u2026 [+1747 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Nancy Dillon",
+      "title": "Mary J. Blige Fighting Back After \u2018Meritless\u2019 Lawsuit From Sean Combs\u2019 Ex Misa Hylton",
+      "description": "Mary J. Blige says a $10 million lawsuit filed against her by her former stylist Misa Hylton and Harlem rapper Vado is \"blatantly frivolous.\"",
+      "url": "http://www.rollingstone.com/music/music-news/mary-j-blige-lawsuit-sean-combs-ex-misa-hylton-1235395985/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2025/07/mary-j-blige-vs-misa-hylton.jpg?crop=0px%2C0px%2C1800px%2C1014px&resize=1600%2C900",
+      "publishedAt": "2025-07-29T20:37:46Z",
+      "content": "Any real love that existed between superstar singer Mary J. Blige and her longtime friend and stylist Misa Hylton appears lost now that the two are facing off in an explosive legal battle over the mu\u2026 [+3301 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Joe Wilkins",
+      "title": "Juggalos Not Happy as Insane Clown Posse Releases AI-Generated Video",
+      "description": "Of all the musical fandoms out there, Insane Clown Posse's Juggalos are among the most loyal. Since 2000, the community has rallied around musicians Joe \"Violent J\" Bruce and Joey \"Shaggy 2 Dope\" Ustler to form one of the longest-running independent [thinking\u2026",
+      "url": "https://futurism.com/juggalos-icp-generative-ai",
+      "urlToImage": "https://wordpress-assets.futurism.com/2025/07/juggalos-icp-generative-ai-1.jpg",
+      "publishedAt": "2025-07-29T20:19:47Z",
+      "content": "Of all the musical fandoms out there, Insane Clown Posse's juggalos are among the most loyal. For decades, the community has rallied around musicians Joe \"Violent J\" Bruce and Joey \"Shaggy 2 Dope\" Ut\u2026 [+3438 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
+      "title": "BTS Denied Another No. 1 Album By A Surprise Competitor",
+      "description": "BTS debuts Permission to Dance on Stage (Live) at No. 2 on Top Album Sales and No. 10 on the Billboard 200, while Tyler, the Creator leads both lists.",
+      "url": "https://www.forbes.com/sites/hughmcintyre/2025/07/29/bts-denied-another-no-1-album-by-a-surprise-competitor/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/1196922265/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-29T20:19:19Z",
+      "content": "BTS debuts Permission to Dance on Stage (Live) at No. 2 on Top Album Sales and No. 10 on the ... More Billboard 200, while Tyler, the Creator leads both lists. NEW YORK, NEW YORK - DECEMBER 31: BTS p\u2026 [+2369 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "UPROXX"
+      },
+      "author": "Aaron Williams",
+      "title": "Tiwa Savage And Skepta No Longer Wants To Keep Love \u2018On A Low\u2019",
+      "description": "Savage is releasing her fourth album, 'This One Is Personal,' in a month.",
+      "url": "https://uproxx.com/music/tiwa-savage-skepta-on-a-low/",
+      "urlToImage": "https://uproxx.com/wp-content/uploads/2025/07/tiwa-savage-x-skepta-photo-credit_-Mack-Quicke-@mackquicke-2.jpg?w=710",
+      "publishedAt": "2025-07-29T20:09:41Z",
+      "content": "Afrobeats star Tiwa Savage is releasing her fourth album in a month, and today, she\u2019s shared the latest single, \u201cOn A Low\u201d featuring UK rapper Skepta. \r\nThe song, according to Savage, is about the pu\u2026 [+1178 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "Tmz Staff",
+      "title": "Soulja Boy Buys Birthday Cybertruck, Takes Credit for SeaWorld Boom",
+      "description": "Soulja Boy is celebrating another year around the sun -- with some shiny new toys and bragging rights for SeaWorld's hot concert ticket!!!",
+      "url": "https://www.tmz.com/2025/07/29/soulja-boy-cybertruck-seaworld/",
+      "urlToImage": "https://imagez.tmz.com/image/94/16by9/2025/07/29/944bb79a74814ebaaf8367b017862e95_xl.jpg",
+      "publishedAt": "2025-07-29T20:08:07Z",
+      "content": "Soulja Boy is celebrating another year around the sun -- with some shiny new toys and bragging rights for SeaWorld's hot concert ticket!!!\r\nTMZ Hip Hop caught up with Soulja Boy in DTLA for his birth\u2026 [+558 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Stephanie Mansour",
+      "title": "10 Yoga Poses To Relieve Your Constipation",
+      "description": "Constipation is common, but, for some, relief is hard to come by. Discover the yoga poses that can stimulate the bowels and help you go to the bathroom with ease.",
+      "url": "https://www.today.com/health/yoga-for-constipation-rcna221739",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/yoga-for-constipation-zz-250729-66ad20.jpg",
+      "publishedAt": "2025-07-29T19:54:51Z",
+      "content": "Constipation happens to us all. In fact, 16% of Americans and one-third of older adults suffer from chronic constipation. Difficulty passing stool and the pain that comes with it are responsible for \u2026 [+7334 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XXLMAG.COM"
+      },
+      "author": "C. Vernon Coleman II",
+      "title": "Paul Wall & DJ.Fresh Talk The Tonite Show, Hip-Hop, Car Culture",
+      "description": "Twenty years after the release of his breakout album, The People's Champ,\u00a0Paul Wall\u00a0has graduated to ambassador of the great city of Houston. For the past two decades, the former Swishahouse rapper has pushed H-Town's diamond-grill wearing, slab-riding, 44 ti\u2026",
+      "url": "https://www.xxlmag.com/paul-wall-dj-fresh-interview/",
+      "urlToImage": "https://townsquare.media/site/812/files/2025/07/attachment-paul-wall-dj-fresh.jpg?w=1200&format=natural",
+      "publishedAt": "2025-07-29T19:53:06Z",
+      "content": "Twenty years after the release of his breakout album, The People's Champ,\u00a0Paul Wall\u00a0has graduated to ambassador of the great city of Houston. For the past two decades, the former Swishahouse rapper h\u2026 [+3205 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStranger.com"
+      },
+      "author": "Dave Segal",
+      "title": "New Music You Shouldn't Miss",
+      "description": "Evelyn Frances's Urban-Paranoiac Art Pop and Kassa Overall's Jazzed-Up Remakes of '90s Hip-hop Jams\n \n by Dave Segal\n \n \n \n Every day, Dave Segal sifts through the hundreds of tracks that bombard his inbox. On a biweekly basis, he tells you about the two arti\u2026",
+      "url": "https://www.thestranger.com/music/2025/07/29/80160551/new-music-you-shouldnt-miss",
+      "urlToImage": "https://media1.fdncms.com/stranger/imager/u/large/80171090/evelyn_18.webp",
+      "publishedAt": "2025-07-29T19:39:00Z",
+      "content": "Every day, Dave Segal sifts through the hundreds of tracks that bombard his inbox. On a biweekly basis, he tells you about the two artists whose music most impressed him. This time, Seattle transplan\u2026 [+6954 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sneaker News"
+      },
+      "author": "Matt Varga",
+      "title": "The Caged New Balance 9060 X Returns In Two Grey Finishes",
+      "description": "New Balance truly does love an offshoot. The 1906R silo has become a family as it\u2019s become a frequent street level sight, but featuring the...\n\n\u00a9 Sneaker News, 2025. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post The Caged New Balance 9060 X Returns \u2026",
+      "url": "https://sneakernews.com/2025/07/29/new-balance-9060-white-black-u9060iaa-u9060iab/",
+      "urlToImage": "https://sneakernews.com/wp-content/uploads/2025/07/new-balance-9060-white-black-u9060iaa-u9060iab.jpg",
+      "publishedAt": "2025-07-29T19:00:48Z",
+      "content": "New Balance truly does love an offshoot. The 1906R silo has become a family as it\u2019s become a frequent street level sight, but featuring the remodeled tech runner so heavily certainly borders on overs\u2026 [+1613 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
+      "title": "Jung Kook\u2019s Historic Hit Continues To Chart, Years After Its Smashing Debut",
+      "description": "Two years after topping the Hot 100, Jung Kook\u2019s \u201cSeven\u201d remains a landmark hit that helped define the global rise of K-pop soloists in the U.S.",
+      "url": "https://www.forbes.com/sites/hughmcintyre/2025/07/29/jung-kooks-historic-hit-continues-to-chart-years-after-its-smashing-debut/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/66d9cf756fec67eab6f08b40/0x0.jpg?format=jpg&crop=1770,996,x0,y66,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-29T19:00:47Z",
+      "content": "Two years after topping the Hot 100, Jung Kooks Seven remains a landmark hit that helped define ... More the global rise of K-pop soloists in the U.S. NEW YORK, NEW YORK - NOVEMBER 08: Jungkook of BT\u2026 [+2994 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Cassidy Horton",
+      "title": "How to compare pet insurance quotes",
+      "description": "Pet insurance quotes can vary a lot, even for the same pet. Grab at least three quotes and be ready with your pet's age, breed, and location details.",
+      "url": "https://finance.yahoo.com/personal-finance/insurance/article/how-to-compare-pet-insurance-quotes-185726523.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/bCNQ6mszmpuAS0d5nMjIoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NzE-/https://s.yimg.com/os/creatr-uploaded-images/2025-07/95bda9f0-575f-11f0-bf3e-b18c13916820",
+      "publishedAt": "2025-07-29T18:57:26Z",
+      "content": "Buying pet insurance isnt something you want to rush into as a pet parent. Plan costs and coverage run the gamut, and the cheapest plan isnt always a clear winner. Skip the fine print, and you could \u2026 [+8115 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "blogTO"
+      },
+      "author": "Sandeep Panesar",
+      "title": "10 free things to do in Toronto this August",
+      "description": "Free things to do in Toronto in August include a jazz festival, a massive celebration of\u00a0Chinatown, movie screenings,\u00a0DJ nights\u00a0and much,\u00a0much more!\u00a0To know more about what's happening in the city, check out our full page of\u00a0event listings\u00a0and get working on \u2026",
+      "url": "https://www.blogto.com/radar/2025/07/free-things-to-do-toronto-august/",
+      "urlToImage": "https://display.blogto.com/articles/20250729-things-to-do-august-toronto.jpg?w=1200&cmd=resize_then_crop&height=630&quality=70&format=jpeg",
+      "publishedAt": "2025-07-29T18:39:02Z",
+      "content": "Free things to do in Toronto in August include a jazz festival, a massive celebration of\u00a0Chinatown, movie screenings,\u00a0DJ nights\u00a0and much,\u00a0much more!\u00a0\r\nTo know more about what's happening in the city,\u2026 [+87 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurity: Research News"
+      },
+      "author": "Jen Plummer-Syracuse",
+      "title": "How new words enter our language",
+      "description": "A linguistics expert has answers for you about how new words enter our language. From [\u2026]",
+      "url": "https://www.futurity.org/how-new-words-enter-our-language-3288642/",
+      "urlToImage": "https://www.futurity.org/wp/wp-content/uploads/2025/07/magic-words-language-podcast-1600-1.jpg",
+      "publishedAt": "2025-07-29T17:50:21Z",
+      "content": "A linguistics expert has answers for you about how new words enter our language.\r\nFrom \u201cyeet\u201d to \u201csocial distancing,\u201d new words and phrases constantly emerge and evolve in American English.\r\nBut how \u2026 [+3865 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Billboard"
+      },
+      "author": "Michael Saponara",
+      "title": "Busta Rhymes to Be Honored With Hollywood Walk of Fame Star",
+      "description": "Busta Rhymes will be honored with a star on the Hollywood Walk of Fame on Aug. 1",
+      "url": "http://www.billboard.com/music/rb-hip-hop/busta-rhymes-getting-hollywood-walk-of-fame-star-1236032480/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/07/bet-awards-busta-rhymes-2025-billboard-1800.jpg?w=1024",
+      "publishedAt": "2025-07-29T17:48:38Z",
+      "content": "Busta Rhymes will receive his gold star on the Hollywood Walk of Fame during a ceremony slated for Friday afternoon (Aug. 1) in Los Angeles. \r\nRadio legend Big Boy will serve as emcee for the Hollywo\u2026 [+1935 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Kelsey Stewart",
+      "title": "Kim Kardashian is now making Skims shapewear for your face",
+      "description": "Fans joked that perhaps mom Kris Jenner was the inspiration for the wrap \u2014\u00a0which promises ultra-soft overnight jaw support \u2014 referring to her recent face lift.",
+      "url": "https://pagesix.com/2025/07/29/style/kim-kardashians-skims-launches-sculpting-shapewear-for-your-face/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/07/108933519.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-07-29T17:41:32Z",
+      "content": "On Tuesday, Skims launched The Ultimate Face, its first-ever product for the face. Skims/Instagram\r\nKim Kardashian is here to help you tone your face. \r\nOn Tuesday, the entrepreneur\u2019s shapewear brand\u2026 [+2677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Kim Peiffer, Forbes Staff, \n Kim Peiffer, Forbes Staff\n https://www.forbes.com/sites/forbes-personal-shopper/people/kimpeiffer/",
+      "title": "The 7 Best Yoga Mats, Based On Months Of Testing And Expert Insights",
+      "description": "The best yoga mats provide a stable, cushioned surface to support your practice, protect your joints and enhance your overall experience. Here are the mats we recommend.",
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-yoga-mat/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6887e8ba3fa6529a1159d384/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-29T17:38:49Z",
+      "content": "Yoga has long been touted for its ability to build strength, increase flexibility and promote mental well-being, all in the form of low-impact movements. It also requires very little equipmentin most\u2026 [+28652 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WWD"
+      },
+      "author": "Kaleigh Werner",
+      "title": "Pamela Anderson\u2019s No-makeup Glow: Every Product Behind Her Effortless Beauty\u00a0Routine",
+      "description": "The skin care products Pamela Anderson used to achieve her makeup-free aesthetic at 'The Naked Gun' premiere in New York City.",
+      "url": "http://wwd.com/pop-culture/celebrity-news/pamela-andersons-makeup-free-skin-care-routine-1238013351/",
+      "urlToImage": "https://wwd.com/wp-content/uploads/2025/07/MixCollage-29-Jul-2025-11-29-AM-4533.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2025-07-29T16:31:48Z",
+      "content": "If you purchase an independently reviewed product or service through a link on our website, WWD may receive an affiliate commission.\r\nEver since Pamela Anderson declared the end of her once-cherished\u2026 [+3592 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sneaker News"
+      },
+      "author": "Matt Varga",
+      "title": "The Nike Air Max Muse Steps Out In Red Leather",
+      "description": "Adding any new chapter to the Nike Air Max legacy comes with high stakes. In official press from Nike, designers didn\u2019t take the idea of...\n\n\u00a9 Sneaker News, 2025. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post The Nike Air Max Muse Steps Out In Red L\u2026",
+      "url": "https://sneakernews.com/2025/07/29/nike-air-max-muse-university-red-metallic-silver-black-fv1920-603/",
+      "urlToImage": "https://sneakernews.com/wp-content/uploads/2025/07/nike-air-max-muse-university-red-metallic-silver-black-FV1920-603-3.jpg",
+      "publishedAt": "2025-07-29T16:30:23Z",
+      "content": "Adding any new chapter to the Nike Air Max legacy comes with high stakes. In official press from Nike, designers didn\u2019t take the idea of the Nike Air Max Muse lightly, but also didn\u2019t simply want to \u2026 [+1516 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Katherine Louie, Forbes Staff, \n Katherine Louie, Forbes Staff\n https://www.forbes.com/sites/forbes-personal-shopper/people/katherinelouie/",
+      "title": "I\u2019m A Lifestyle Shopping Editor, And I Found The 38 Best Birthday Gifts For Her",
+      "description": "The best birthday gifts for her are thoughtful, unique and tailored to her interests. Here are my top picks from Hoka, Jenny Bird, Rimowa and more.",
+      "url": "https://www.forbes.com/sites/forbes-personal-shopper/article/best-birthday-gift-for-her/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68841cf7f10d971bbefba84e/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-29T16:00:25Z",
+      "content": "While finding the best birthday gifts for her can be challenging (especially if she seemingly has it all), consider the recipients hobbies and the items she may not splurge on herselfbut definitely h\u2026 [+14615 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Post"
+      },
+      "author": "Jared Schwartz",
+      "title": "Malik Nabers exits practice with apparent shoulder injury in Giants training camp scare",
+      "description": "Malik Nabers in pain is certainly not a sight the Giants want to see.",
+      "url": "https://nypost.com/2025/07/29/sports/malik-nabers-exits-with-apparent-injury-in-giants-training-camp-scare/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2025/07/newspress-collage-i66yiwdln-1753803164803.jpg?quality=75&strip=all&1753788807&w=1024",
+      "publishedAt": "2025-07-29T15:39:26Z",
+      "content": "Malik Nabers in pain is certainly not a sight the Giants want to see.\r\nHe provided a new worry with an apparent shoulder injury during Tuesdays practice.\r\nAfter blocking on a run play during team dri\u2026 [+764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sneaker News"
+      },
+      "author": "Matt Varga",
+      "title": "Arike Ogunbowale Debuts Nike Kobe 5 Protro PE",
+      "description": "By shedding previous centerpiece Satou Sabally and bringing in next generation phenom Paige Bueckers, the Dallas Wings made it clear to the WNBA public that...\n\n\u00a9 Sneaker News, 2025. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post Arike Ogunbowale Deb\u2026",
+      "url": "https://sneakernews.com/2025/07/29/nike-kobe-5-protro-pe-arike-ogunbowale/",
+      "urlToImage": "https://sneakernews.com/wp-content/uploads/2025/07/nike-kobe-5-protro-pe-arike-ogunbowale-1.jpg",
+      "publishedAt": "2025-07-29T15:30:16Z",
+      "content": "By shedding previous centerpiece Satou Sabally and bringing in next generation phenom Paige Bueckers, the Dallas Wings made it clear to the WNBA public that the franchise would be entering a new chap\u2026 [+1865 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Futurism"
+      },
+      "author": "Joe Wilkins",
+      "title": "Tyler, the Creator's New Album Is Getting Buried by AI Knockoff",
+      "description": "It's a funny time to be a musician, to put it lightly. On top of the glut of epoch-defining news, endless social media feeds, and streaming services that seem to multiply by the hour, musicians are now fighting AI bots for their listener's attention \u2014 and the\u2026",
+      "url": "https://futurism.com/tyler-creator-ai-deepfake",
+      "urlToImage": "https://wordpress-assets.futurism.com/2025/07/tyler-creator-ai-deepfake.jpg",
+      "publishedAt": "2025-07-29T15:12:05Z",
+      "content": "It's a funny time to be a musician, to put it lightly.\r\nOn top of the glut of social feeds and streaming services they have to maintain,\u00a0artists and their representatives\u00a0are now fighting AI bots for\u2026 [+3243 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Out.com"
+      },
+      "author": "Moises Mendez II",
+      "title": "Azealia Banks says that being gay or trans is 'not natural'",
+      "description": "Azealia Banks, a once a beloved hip hop star who started her career in New York City, has now inflamed her fans after uploading an X post in which she writes that being gay or transgender is \"not natural.\"",
+      "url": "https://www.out.com/media/azealia-banks-gay-trans-not-natural",
+      "urlToImage": "https://www.out.com/media-library/image.jpg?id=61335011&width=1200&height=600&coordinates=0%2C39%2C0%2C39",
+      "publishedAt": "2025-07-29T15:09:12Z",
+      "content": "Azealia Banks, a once a beloved hip hop star who started her career in New York City, has now inflamed her fans after uploading an X post in which she writes that being gay or transgender is \"not nat\u2026 [+1969 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Billboard"
+      },
+      "author": "Eric Frankenberg",
+      "title": "Beyonc\u00e9's Cowboy Carter Tour Has $100 Million-Plus Month in June",
+      "description": "Beyonc\u00e9's Cowboy Carter Tour dominates the latest Billboard Boxscore charts with shows in the U.S., the U.K. and continental Europe.",
+      "url": "http://www.billboard.com/pro/beyonce-cowboy-carter-tour-june-100-million-boxscore/",
+      "urlToImage": "https://www.billboard.com/wp-content/uploads/2025/04/01-beyonce-cowboy-carter-tour-opener-2025-billboard-1548.jpg?w=1024",
+      "publishedAt": "2025-07-29T14:49:34Z",
+      "content": "It\u2019s a new month, but the same results. Again, Beyonc\u00e9 is No. 1 on Billboard\u2019s monthly Top Tours chart with more than $100 million in grosses. According to figures reported to Billboard Boxscore, Cow\u2026 [+4619 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Unsung hero behind hula hoop invention dies aged 101",
+      "description": "Anderson claimed she came up with the name 'hula hoop' and played a crucial role in introducing the toy to the US.",
+      "url": "https://www.bbc.com/news/articles/c70x4w4z138o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1fb0/live/080ae720-6c6e-11f0-af20-030418be2ca5.jpg",
+      "publishedAt": "2025-07-29T14:48:57Z",
+      "content": "Joan Anderson, who coined the name for the hula hoop and played an unsung role in its rise, has died age 101.\r\nThe former model was visiting her native Australia from her home in the US when she spot\u2026 [+2223 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
+      "title": "Tyler, The Creator Hits No. 1 For The First Time With His Surprise New Album",
+      "description": "Tyler, The Creator\u2019s new album Don\u2019t Tap the Glass debuts at No. 1 on multiple charts in the United Kingdom, bringing the hip-hop superstar to the top spot for the first time.",
+      "url": "https://www.forbes.com/sites/hughmcintyre/2025/07/29/tyler-the-creator-hits-no-1-for-the-first-time-with-his-surprise-new-album/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6888bb3778a4a7261f06b688/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-29T13:45:14Z",
+      "content": "Tyler, The Creators new album Dont Tap the Glass More\r\n debuts at No. 1 on multiple charts in the United Kingdom, bringing the hip-hop superstar to the top spot for the first time. HOLLYWOOD, CALIFOR\u2026 [+2218 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
+      "title": "Doechii Scores A New No. 1 With A Half-Decade-Old Song",
+      "description": "Doechii\u2019s viral hit \u201cAnxiety\u201d debuts at No. 1 on the U.K.\u2019s Official Vinyl Singles and Physical Singles charts, driven by limited edition vinyl sales.",
+      "url": "https://www.forbes.com/sites/hughmcintyre/2025/07/29/doechii-scores-a-new-no-1-with-a-half-decade-old-song/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6888ba6a99b2967861722869/0x0.jpg?format=jpg&crop=1324,745,x0,y124,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-29T13:30:53Z",
+      "content": "Doechiis viral hit Anxiety debuts at No. 1 on the U.K.s Official Vinyl Singles and Physical ... More Singles charts, driven by limited edition vinyl sales. NEW YORK, NEW YORK - MAY 05: Doechii attend\u2026 [+2216 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Screen Rant"
+      },
+      "author": "Paul Elliott",
+      "title": "You Won\u2019t Believe How Much The 10 Most Expensive Music Videos Of All Time Cost",
+      "description": "Some artists will do whatever it takes to make a great music video, including with the price, making the cost of these productions astonishing.",
+      "url": "https://screenrant.com/music-videos-most-expensive/",
+      "urlToImage": "https://static1.srcdn.com/wordpress/wp-content/uploads/2025/07/scream-the-jacksons.jpg",
+      "publishedAt": "2025-07-29T13:00:25Z",
+      "content": "Spanning many different genres, the cost of some of the most expensive music videos of all time is unbelievable. Even before the MTV Generation played a huge role in the industry, creating attention-\u2026 [+9615 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Julia Forbes",
+      "title": "Wolf Memory Foam Hybrid Premium Firm Mattress Review: A New Alpha",
+      "description": "This made-to-order, nine-layer mattress provides impressive support for stomach, side, and back sleepers alike.",
+      "url": "https://www.wired.com/review/wolf-hybrid-mattress/",
+      "urlToImage": "https://media.wired.com/photos/68880e20d405d4d1f27ccd50/191:100/w_1280,c_limit/Review-%20Wolf%20Memory%20Foam%20Hybrid%20Premium%20Firm%20Mattress.png",
+      "publishedAt": "2025-07-29T12:37:00Z",
+      "content": "For context, I usually sleep on the Nolah Evolution Hybrid (9/10, WIRED Recommends), which happens to be one of the best mattresses Ive tested to date. The first thing I noticed with this bed was tha\u2026 [+2961 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Forbes Travel Guide, Contributor, \n Forbes Travel Guide, Contributor\n https://www.forbes.com/sites/forbestravelguide/people/inspector/",
+      "title": "The 6 Best Palm Beach Hotels",
+      "description": "Florida\u2019s Gold Coast continues to glitter, thanks to the iconic Palm Beach properties that define America\u2019s first luxury resort destination.",
+      "url": "https://www.forbes.com/sites/forbestravelguide/2025/07/29/the-6-best-palm-beach-hotels/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6888bd2ea4cb305ce1ec9585/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-29T12:36:13Z",
+      "content": "Four Seasons Resort Palm Beach leads a list of lovely stays near the waves.\r\nFour Seasons Resort Palm Beach \r\nAlthough Palm Beach boasts the title of Americas first luxury resort destination, the 11-\u2026 [+5713 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Corein Carter, Contributor, \n Corein Carter, Contributor\n https://www.forbes.com/sites/coreincarter/",
+      "title": "AfroFuture\u2019s U.S. Debut In Detroit Is Reshaping Festivals Forever",
+      "description": "From Ghana to Detroit, AfroFuture\u2019s U.S. debut blends music, culture, and community\u2014ushering in a new era for festivals rooted in global Black excellence.",
+      "url": "https://www.forbes.com/sites/coreincarter/2025/07/29/afrofutures-us-debut-in-detroit-is-changing-music-festivals-forever/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/68881ad0abfd185e899a9a14/0x0.jpg?format=jpg&crop=4009,2256,x0,y941,safe&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-29T12:15:00Z",
+      "content": "From Ghana to the Midwest, AfroFuture is bridging continents, culture and creativity with a festival experience like no other.\r\nPhoto taken at AfroFuture 2024\r\nAfroFuture\r\nFor nearly a decade, AfroFu\u2026 [+10585 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Dmy.co"
+      },
+      "author": "DMY Staff",
+      "title": "Kinzoogianna Drops Jazztronica Anthem 'Queendom of Sound (I Love Music)'",
+      "description": "Bold new single leads the charge for genre-hopping concept album \u2018The Clique of \u201986\u2019",
+      "url": "https://dmy.co/new-music/kinzoogianna-drops-jazztronica-anthem-queendom-of-sound-i-love-music",
+      "urlToImage": "https://optimise2.assets-servd.host/dmy-mag/production/ANNA-STUBBS-KEYZZ-75.JPG?w=1200&h=630&fm=jpg&auto=compress&fit=crop&dm=1753776741&s=63c0f7ec94f2e4f1c85a6884c92cc7a1",
+      "publishedAt": "2025-07-29T08:36:51Z",
+      "content": "UK jazztronica powerhouse Kinzoogianna (aka Anna Stubbs) makes a triumphant return with 'Queendom of Sound (I Love Music)', the commanding new single from her forthcoming second solo album 'The Cliqu\u2026 [+1414 chars]"
+    },
+    {
+      "source": {
+        "id": "espn",
+        "name": "ESPN"
+      },
+      "author": "Dale Johnson",
+      "title": "VAR Review: Ranking Euro 2025's biggest incidents",
+      "description": "Video Assistant Referee always causes controversy, and that was no different at Euro 2025. So how were the decisions made?",
+      "url": "https://www.espn.com/soccer/story/_/id/45804920/var-review-ranking-euro-2025-biggest-incidents",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2025%2F0723%2Fr1522752_1296x729_16%2D9.jpg",
+      "publishedAt": "2025-07-29T08:35:07Z",
+      "content": "Video Assistant Referee always causes controversy, and that was no different at Euro 2025. So how were the decisions made, and were they correct?\r\nWe rank the decisions from the tournament that may s\u2026 [+15955 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Grist"
+      },
+      "author": "Haziq Qadri",
+      "title": "This Indian rapper is spitting bars about climate justice, caste, and Indigenous rights",
+      "description": "In her latest single, Mahi G spotlights the outdoor workers vulnerable to extreme heat.",
+      "url": "https://grist.org/arts-culture/indian-rapper-climate-justice-caste-and-indigenous-rights/",
+      "urlToImage": "https://grist.org/wp-content/uploads/2025/07/mahi-g_9899e9.jpg?quality=75&strip=all",
+      "publishedAt": "2025-07-29T08:15:00Z",
+      "content": "In her latest rap song, Madhura Ghane, known by her stage name Mahi G, walks on a barren, drought-stricken hill where a large, leafless tree has fallen to the ground. In the following frames, with th\u2026 [+6179 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New Atlas"
+      },
+      "author": "Abhimanyu Ghoshal",
+      "title": "New 3D-printed titanium alloy is stronger and cheaper than ever before",
+      "description": "Apparently, folks in the material science world are totally over the fact that we're able to 3D print titanium alloys willy-nilly.Continue ReadingCategory: Materials, ScienceTags: Titanium, Alloy, 3D Printing, additive manufacturing, RMIT University",
+      "url": "https://newatlas.com/materials/3d-printed-titanium-alloy-additive-manufacturing/",
+      "urlToImage": "https://assets.newatlas.com/dims4/default/9876558/2147483647/strip/true/crop/1200x630+0+85/resize/1200x630!/quality/90/?url=https%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fa1%2Fad%2Fb9f91a4b4e449158530e64b332c0%2Fa-titanium-alloy-being-additively-manufactured.jpg&na.image_optimisation=0",
+      "publishedAt": "2025-07-29T07:57:00Z",
+      "content": "Apparently, folks in the material science world are totally over the fact that we're able to 3D print titanium alloys willy-nilly.\r\nBecause they have exceptional strength-to-weight ratios, corrosion \u2026 [+3082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "The Associated Press",
+      "title": "Padres play the Mets leading series 1-0",
+      "description": "New York Mets (62-45, first in the NL East) vs. San Diego Padres (58-49, second in the NL West) San Diego; Tuesday, 9:40 p.m. EDT PITCHING PROBABLES: Mets...",
+      "url": "https://sports.yahoo.com/article/padres-play-mets-leading-series-075514310.html",
+      "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "publishedAt": "2025-07-29T07:55:14Z",
+      "content": "New York Mets (62-45, first in the NL East) vs. San Diego Padres (58-49, second in the NL West)\r\nSan Diego; Tuesday, 9:40 p.m. EDT\r\nPITCHING PROBABLES: Mets: Sean Manaea (0-0); Padres: TBD\r\nBETMGM SP\u2026 [+1740 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Acultivatednest.com"
+      },
+      "author": "A Cultivated Nest Team",
+      "title": "10 Easy \u201cGoodbye Summer\u201d DIY Keepsake Projects for Kids",
+      "description": "Remember Summer Forever with These \u201cGoodbye Summer\u201d DIY Keepsake Projects. Summer flies by fast, but those special moments don\u2019t have to fade away. DIY keepsake projects are a fun way for kids to hold onto their favorite memories before the season ends. Wheth\u2026",
+      "url": "https://acultivatednest.com/goodbye-summer-diy-keepsake-projects-for-kids/",
+      "urlToImage": "https://acultivatednest.com/wp-content/uploads/2025/07/goodbye-summer-diy-keepsake-projects-for-kids-500px.jpg",
+      "publishedAt": "2025-07-29T07:42:41Z",
+      "content": "Remember Summer Forever with These Goodbye Summer DIY Keepsake Projects.\r\nSummer flies by fast, but those special moments dont have to fade away. DIY keepsake projects are a fun way for kids to hold \u2026 [+5340 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hurriyet Daily News"
+      },
+      "author": "hurriyetdailynews.com",
+      "title": "Sarajevo street art marks out brighter future",
+      "description": "Bullet holes still pockmark many Sarajevo buildings; others threaten collapse under disrepair, but street artists in the Bosnian capital are using their work to reshape a city steeped in history.",
+      "url": "https://www.hurriyetdailynews.com/sarajevo-street-art-marks-out-brighter-future-211957",
+      "urlToImage": "https://image.hurimg.com/i/hurriyet/75/200x200/6887a327b97a4990ea9400d8.jpg",
+      "publishedAt": "2025-07-29T06:32:48Z",
+      "content": "SARAJEVO\r\nBullet holes still pockmark many Sarajevo buildings; others threaten collapse under disrepair, but street artists in the Bosnian capital are using their work to reshape a city steeped in hi\u2026 [+3694 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Radaronline.com"
+      },
+      "author": "Radar Staff",
+      "title": "Drake\u2019s Iceman Era is Here: Here\u2019s What We Know",
+      "description": "We are officially in the Iceman era, which will either break or make the God\u2019s Plan artist as he fights to reclaim the narrative.",
+      "url": "https://radaronline.com/p/drakes-iceman-era-is-here-heres-what-we-know/",
+      "urlToImage": "https://media.radaronline.com/brand-img/_dwgeVKQq/1200x628/resultjames-stamler-k3hedkwh0a-unsplash-1753706212789.jpg",
+      "publishedAt": "2025-07-29T06:00:00Z",
+      "content": "After taking a tough hit from Kendrick in that 2024 rap feud, its no shock that Drake is on the move to bounce back with a new album and reclaim his spot as the beloved star he used to be, at least i\u2026 [+1034 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CounterPunch"
+      },
+      "author": "John Divinagracia",
+      "title": "Around the World in Nine Festivals: How Music Unites Us",
+      "description": "Music has the unique power to transcend language, geography, and culture. Across the globe, people gather to celebrate this universal art form through music festivals\u2014vibrant events that bring together artists and audiences. From the deserts of California to \u2026",
+      "url": "https://www.counterpunch.org/2025/07/29/around-the-world-in-nine-festivals-how-music-unites-us/",
+      "urlToImage": "https://www.counterpunch.org/wp-content/uploads/2025/07/WideAwakeBrockP230525_161_of_185_cropped.jpg",
+      "publishedAt": "2025-07-29T05:55:17Z",
+      "content": "Music festivals have also become important platforms for promoting sustainability, given their\u00a0substantial carbon footprints, and are thus becoming drivers of positive change. Many festivals now prio\u2026 [+12014 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The-independent.com"
+      },
+      "author": "Annabel Nugent",
+      "title": "Walkouts, refunds, furore: Is Elvis Evolution proof we\u2019ve reached peak immersive experience?",
+      "description": "It\u2019s the latest immersive experience to go viral for all the wrong reasons after fans who\u2019d paid up to \u00a3300 to see a hologram Elvis were left disappointed. Annabel Nugent asks whether it\u2019s time to rethink the fad",
+      "url": "https://www.the-independent.com/arts-entertainment/theatre-dance/features/elvis-evolution-controversy-immersive-experience-b2796079.html",
+      "urlToImage": "https://static.the-independent.com/2025/07/22/12/37/Layered_20Reality_20-_20Elvis_20Evolution_20-_2016th_20July_202025_20by_20Luke_20Dyson_20-_20LD3_103.jpeg?trim=0,128,86,0&width=1200&height=800&crop=1200:800",
+      "publishedAt": "2025-07-29T05:00:00Z",
+      "content": "Your support helps us to tell the story\r\nFrom reproductive rights to climate change to Big Tech, The Independent is on the ground when the story is developing. Whether it's investigating the financia\u2026 [+9298 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pilatesanytime.com"
+      },
+      "author": null,
+      "title": "Sarah Bertucelli - Twisty, Playful Mat (45 mins) - Level 2",
+      "description": "Join Sarah Bertucelli for a dynamic Mat class that explores movement through twisting patterns and playful cross-body connections. This innovative session emphasizes the pleasure principle as you discover new pathways of motion, incorporating eye gaze and bre\u2026",
+      "url": "https://www.pilatesanytime.com/class-view/5971/video/Pilates-Twisty-Playful-Mat-by-Sarah-Bertucelli",
+      "urlToImage": "https://images.pilatesanytime.com/2025/04/07/large_sarah_250307_PA8818_9194_TIMG_landscape-29783.jpg",
+      "publishedAt": "2025-07-29T05:00:00Z",
+      "content": "Read Full Transcript\r\nThanks for joining me today. Be ready for some exploration in this class. This class is meant to be a combination of some Pilates moves, but also some more organic movement. Typ\u2026 [+38008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Nelson Aguilar",
+      "title": "I Take These Plug-and-Play Modular Speakers Everywhere",
+      "description": "Beach days, backyard barbecues and summer hangouts all sound better with my portable, high-quality Rocksteady Stadium 2.0 speakers.",
+      "url": "https://www.cnet.com/deals/i-take-these-plug-and-play-modular-speakers-everywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/00d851c935b7f036ade491d52feedd0b759b3798/hub/2025/05/22/a93b2318-b2fd-47c6-88ba-14a41845212d/img-9061.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-29T00:22:00Z",
+      "content": "Doing a quick search for Bluetooth speakers online gets me dozens upon dozens of options, which quickly becomes pretty overwhelming, even though I review these products for CNET. There are the more p\u2026 [+3972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Nelson Aguilar",
+      "title": "I Take These Plug-and-Play Modular Speakers Everywhere",
+      "description": "Beach days, backyard barbecues and summer hangouts all sound better with my portable, high-quality Rocksteady Stadium 2.0 speakers.",
+      "url": "https://www.cnet.com/deals/i-take-these-plug-and-play-modular-speakers-everywhere/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/00d851c935b7f036ade491d52feedd0b759b3798/hub/2025/05/22/a93b2318-b2fd-47c6-88ba-14a41845212d/img-9061.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-07-29T00:22:00Z",
+      "content": "Doing a quick search for Bluetooth speakers online gets me dozens upon dozens of options, which quickly becomes pretty overwhelming, even though I review these products for CNET. There are the more p\u2026 [+3972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Page Six"
+      },
+      "author": "Ian Mohr",
+      "title": "Why Billy Joel always wore a jacket and tie on stage \u2014 and never looked back",
+      "description": "One topic the exhaustive doc doesn't address is how Joel went from a scruffy aspiring metal head to a guy whose public uniform was a coat and tie.",
+      "url": "https://pagesix.com/2025/07/28/entertainment/why-billy-joel-always-wore-a-jacket-and-tie-on-stage-and-never-looked-back/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2025/07/billy-joel-blazer.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2025-07-28T22:48:46Z",
+      "content": "HBO\u2019s revealing new documentary on Billy Joel delves into the rocker\u2019s personal life and career, from his beginnings as a struggling cocktail lounge \u201cPiano Man\u201d to selling out Madison Square Garden m\u2026 [+3781 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Nagashia Jackson",
+      "title": "Jazmine Sullivan, Future, headline ONE Music Fest",
+      "description": "Grammy-nominated R&B sensation Jazmine Sullivan and Atlanta rap superstar Future will headline the ONE Music Festival in Atlanta on Oct. 25-26 at Piedmont Park. The two-day festival marks a homecoming celebration for Atlanta\u2019s rich musical legacy, featuring a\u2026",
+      "url": "https://rollingout.com/2025/07/28/jazmine-sullivan-future-one-music-fest/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2024/10/DSC_7214-scaled.jpg",
+      "publishedAt": "2025-07-28T22:30:30Z",
+      "content": "Grammy-nominated R&amp;B sensation Jazmine Sullivan and Atlanta rap superstar Future will headline the ONE Music Festival in Atlanta on Oct. 25-26 at Piedmont Park.\r\nThe two-day festival marks a home\u2026 [+4365 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sneaker News"
+      },
+      "author": "Matt Varga",
+      "title": "\u201cBlack Cat\u201d Coloring Creeps Onto The Nike Air Max 1 Premium",
+      "description": "Now spread far beyond Michael Jordan\u2019s brand that birthed the title, \u201cBlack Cat\u201d has quickly entered the conversation for most attention-grabbing monikers in sneakers, a...\n\n\u00a9 Sneaker News, 2025. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post \u201cBlack \u2026",
+      "url": "https://sneakernews.com/2025/07/28/nike-air-max-1-premium-black-hv8065-001/",
+      "urlToImage": "https://sneakernews.com/wp-content/uploads/2025/07/nike-air-max-1-premium-black-HV8065-001-7.jpg",
+      "publishedAt": "2025-07-28T22:00:55Z",
+      "content": "Now spread far beyond Michael Jordan\u2019s brand that birthed the title, \u201cBlack Cat\u201d has quickly entered the conversation for most attention-grabbing monikers in sneakers, a newfound splashiness likely m\u2026 [+1782 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Soldiersystems.net"
+      },
+      "author": "Eric G",
+      "title": "Tasmanian Tiger Launches Red Medic Line for Enhanced Visibility and Rapid Access in High-Stress Environments",
+      "description": "New red colorway designed to meet the demands of TEMS, EMS, and Combat Medics for high-visibility medical gear. Knoxville, Tenn. (July 2025) \u2013 Tasmanian Tiger\u00ae, a tactical nylon line of products distributed exclusively for the US market by Proforce Equipment,\u2026",
+      "url": "https://soldiersystems.net/2025/07/28/tasmanian-tiger-launches-red-medic-line-for-enhanced-visibility-and-rapid-access-in-high-stress-environments/",
+      "urlToImage": "https://soldiersystems.net/wp-content/uploads/2025/07/image-12-12.jpg",
+      "publishedAt": "2025-07-28T22:00:00Z",
+      "content": "New red colorway designed to meet the demands of TEMS, EMS, and Combat Medics for high-visibility medical gear.\r\nKnoxville, Tenn. (July 2025) Tasmanian Tiger\u00ae, a tactical nylon line of products distr\u2026 [+2245 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cracked.com"
+      },
+      "author": "Brian VanHooker",
+      "title": "Keith David Talks His Upcoming \u2018Rick and Morty\u2019 Spin-off \u2018President Curtis\u2019",
+      "description": "At SDCC 2025, a spinoff for \u2018Rick and Morty\u2019s Commander-in-Chief was announced",
+      "url": "https://www.cracked.com/article_47605_keith-david-talks-his-upcoming-rick-and-morty-spin-off-president-curtis.html",
+      "urlToImage": "https://s3.crackedcdn.com/phpimages/article/1/8/5/1339185.jpg",
+      "publishedAt": "2025-07-28T22:00:00Z",
+      "content": "Its time to get schwifty in the Oval Office!\u00a0\r\nAt the San Diego Comic-Con on Friday, attendees heard a surprise announcement during the\u00a0Rick and Morty panel: The insult-spewing, turkey-transforming c\u2026 [+6062 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MLB Trade Rumors"
+      },
+      "author": "Darragh McDonald",
+      "title": "Tigers Acquire Chris Paddack",
+      "description": "The Tigers turned to a division rival for rotation help on Monday afternoon. Detroit acquired righty Chris Paddack and took on the contract of minor league pitcher Randy Dobnak in a deal that sent catching prospect Enrique Jimenez to the Twins. Detroit placed\u2026",
+      "url": "https://www.mlbtraderumors.com/2025/07/tigers-acquire-chris-paddack.html",
+      "urlToImage": "https://cdn.mlbtraderumors.com/files/2024/06/chris-paddack-twins-minnesota-1024x683.jpg",
+      "publishedAt": "2025-07-28T21:40:21Z",
+      "content": "The Tigers turned to a division rival for rotation help on Monday afternoon. Detroit acquired righty Chris Paddack and took on the contract of minor league pitcher Randy Dobnak in a deal that sent ca\u2026 [+7074 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Portland Mercury"
+      },
+      "author": "Lindsay Costello",
+      "title": "The Mercury\u2019s Do This, Do That: July 28\u2013August 3",
+      "description": "From wild cherry pizza to '70s sci-fi, this week's events are a summer fever dream.\n \n by Lindsay Costello\n \n \n \n I don\u2019t want to jinx it or anything, but this week's round-up seems\u2026kind of perfect? Portland has splashy river parties, French sci-fi deep cuts,\u2026",
+      "url": "https://www.portlandmercury.com/do-this-do-that/2025/07/28/47941957/the-mercurys-do-this-do-that-july-28-august-3",
+      "urlToImage": "https://media2.fdncms.com/portmerc/imager/u/large/47946526/gettyimages-2177536277.webp",
+      "publishedAt": "2025-07-28T21:23:00Z",
+      "content": "I dont want to jinx it or anything, but this week's round-up seemskind of perfect? Portland has splashy river parties, French sci-fi deep cuts, neo-Neapolitan pizza topped with cherries (yes, really)\u2026 [+11839 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TMZ"
+      },
+      "author": "TMZ Staff",
+      "title": "Actor Nathan Fillion Kisses New Girlfriend Tania Raymonde at Disneyland",
+      "description": "Nathan Fillion hit pause on set life ... and hit play on a real-life love story at The Happiest Place on Earth -- Disneyland! The actor was spotted packing on the PDA with actress Tania Raymonde -- sneaking in smooches and looking very head over\u2026",
+      "url": "https://www.tmz.com/2025/07/28/nathan-fillion-tania-raymonde-kiss-disneyland/",
+      "urlToImage": "https://imagez.tmz.com/image/14/16by9/2025/07/28/14f2e6a84d954918a5f06173fb0b54c4_xl.jpg",
+      "publishedAt": "2025-07-28T21:07:01Z",
+      "content": "Nathan Fillion hit pause on set life ... and hit play on a real-life love story at The Happiest Place on Earth -- Disneyland!\r\nThe actor was spotted packing on the PDA with actress Tania Raymonde -- \u2026 [+808 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Hugh McIntyre, Senior Contributor, \n Hugh McIntyre, Senior Contributor\n https://www.forbes.com/sites/hughmcintyre/",
+      "title": "Ros\u00e9 Leaps Over Two Of Jung Kook\u2019s Biggest Hits",
+      "description": "Ros\u00e9 climbs to No. 18 on the Adult Pop Airplay chart with \u201cOn My Mind,\u201d which is now the third-highest hit by a K-pop soloist in the tally\u2019s history.",
+      "url": "https://www.forbes.com/sites/hughmcintyre/2025/07/28/ros-leaps-over-two-of-jung-kooks-biggest-hits/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/67dc5bb3e92c69e7fb8bbb2f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-28T21:00:13Z",
+      "content": "Ros\u00e9 climbs to No. 18 on the Adult Pop Airplay chart with On My Mind, which is now the ... More third-highest hit by a K-pop soloist in the tallys history. NEW YORK, NEW YORK - OCTOBER 10: Rose visit\u2026 [+2125 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Jem Aswad",
+      "title": "Dr. Dre\u2019s SSL Mixing Console \u2014 Used on Songs by Eminem, Kendrick Lamar, Jay-Z and More \u2014\u00a0Sells for a Record $165,000",
+      "description": "Dr. Dre\u2019s SSL 4000 G+ mixing console \u2014 used on landmark albums by himself, Eminem, Kendrick Lamar, 50 Cent, Jay-Z, Snoop Dogg, Gwen Stefani, Mary J. Blige, and many others \u2014 was auctioned off for $165,000, setting a new record for the sale of a hip-hop instru\u2026",
+      "url": "https://variety.com/2025/music/news/dr-dre-ssl-console-eminem-sells-for-record-165000-1236472448/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/07/Dr.-Dres-SSL-Board-e1753735140522.png?w=873&h=563&crop=1",
+      "publishedAt": "2025-07-28T20:45:08Z",
+      "content": "Dr. Dre\u2019s SSL 4000 G+ mixing console \u2014 used on landmark albums by himself, Eminem, Kendrick Lamar, 50 Cent, Jay-Z, Snoop Dogg, Gwen Stefani, Mary J. Blige, and many others \u2014 was auctioned off for $16\u2026 [+1764 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Out"
+      },
+      "author": "Tega Egwabor",
+      "title": "Hayley Williams stuns fans with secret 17-song drop",
+      "description": "Paramore frontwoman Hayley Williams delivered an unexpected gift to her devoted fanbase over the weekend, secretly releasing a collection of 17 brand-new songs through an innovative partnership with her hair dye business. The surprise drop caught followers co\u2026",
+      "url": "https://rollingout.com/2025/07/28/hayley-williams-stuns-fans-with-17-songs/",
+      "urlToImage": "https://rollingout.com/wp-content/uploads/2025/07/shutterstock_2599860171-scaled.jpg",
+      "publishedAt": "2025-07-28T20:02:41Z",
+      "content": "Paramore frontwoman Hayley Williams delivered an unexpected gift to her devoted fanbase over the weekend, secretly releasing a collection of 17 brand-new songs through an innovative partnership with \u2026 [+6819 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sneaker News"
+      },
+      "author": "Matt Varga",
+      "title": "The Whitaker Group Brings \u201cWillful Bias\u201d To The New Balance 998 And 990v4",
+      "description": "A Ma Maniere\u2019s collaborative arm almost exclusively extends to Beaverton, an initiative only gaining steam as it enters its fifth full year. However, James Whitner\u2019s...\n\n\u00a9 Sneaker News, 2025. |\nPermalink\n|\nNo comment\n|\nAdd todel.icio.us\n\n\nThe post The Whitake\u2026",
+      "url": "https://sneakernews.com/2025/07/28/the-whitaker-group-new-balance-990v4-998-willful-bias-for-education/",
+      "urlToImage": "https://sneakernews.com/wp-content/uploads/2025/07/the-whitaker-group-new-balance-990v4-998-willful-bias-for-education-10.jpg",
+      "publishedAt": "2025-07-28T20:00:12Z",
+      "content": "A Ma Maniere\u2019s collaborative arm almost exclusively extends to Beaverton, an initiative only gaining steam as it enters its fifth full year. However, James Whitner\u2019s empire stretches beyond just AMM,\u2026 [+1967 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Forbes"
+      },
+      "author": "Cassell Ferere, Contributor, \n Cassell Ferere, Contributor\n https://www.forbes.com/sites/cassellferere/",
+      "title": "Deciphering Luxury For Modern Men With Perri Dash And Super Niche",
+      "description": "Perri Dash of Super Niche provides a roadmap for streetwear enthusiasts transitioning to refined tastes, with guidance on watches, tailored apparel, and premium spirits.",
+      "url": "https://www.forbes.com/sites/cassellferere/2025/07/28/deciphering-luxury-for-modern-men-with-perri-dash-and-super-niche/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6887d027546169fa5f0cf31d/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2025-07-28T19:49:20Z",
+      "content": "Perri Dash, founder of Super Niche and co-host of WristCheck Podcast, along with Rashawn Smith, wearing Blancpain timepieces, has created a platform that helps streetwear enthusiasts evolve into soph\u2026 [+6757 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "XXLMAG.COM"
+      },
+      "author": "C. Vernon Coleman II",
+      "title": "Rappers Make Surprising Cameos in Adam Sandler's Happy Gilmore 2",
+      "description": "Rappers get screentime in Happy Gilmore 2. Continue reading\u2026",
+      "url": "https://www.xxlmag.com/rappers-cameos-happy-gilmore-2/",
+      "urlToImage": "https://townsquare.media/site/812/files/2025/07/attachment-eminem-adam-sandler-happy-gilmore-2.jpg?w=1200&q=75&format=natural",
+      "publishedAt": "2025-07-28T19:46:47Z",
+      "content": "Adam Sandler's new Happy Gilmore 2\u00a0is now out on Netflix and multiple rappers have guest spots in the cult classic sequel.\r\nRappers Make Cameos in Adam Sandler's Happy Gilmore 2\r\nOn July 25, actor Ad\u2026 [+1337 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Blogger.com"
+      },
+      "author": "Randy Seaver",
+      "title": "The Watchful House Remembers: #1 -- Betty's Daily Miracle",
+      "description": null,
+      "url": "https://www.blogger.com/comment/fullpage/post/26204193/8606536350431645654",
+      "urlToImage": null,
+      "publishedAt": "2025-07-28T19:12:00Z",
+      "content": "I was awed and inspired by Paul Chiddicks \"Under The Watchful Tree\"\u00a0and \"\r\nThe Tree On The Green\"\u00a0stories, I realized that I didn't have an old oak tree or similar.\u00a0\u00a0However, I did have the upstairs \u2026 [+10718 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TODAY"
+      },
+      "author": "Sheila Baylis",
+      "title": "How Long Does It Take to Get Abs? A Trainer Explains",
+      "description": "How long it takes to get abs depends on many factors, usually from a few weeks to months. Do core strengthening exercises, cardio and eat whole foods.",
+      "url": "https://www.today.com/health/diet-fitness/how-long-does-it-take-to-get-abs-rcna219973",
+      "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_social_share_1200x630_center,f_auto,q_auto:best/rockcms/2025-07/how-to-get-abs-zz-250721-cceb11.jpg",
+      "publishedAt": "2025-07-28T18:53:44Z",
+      "content": "When you think of a fit physique, you likely picture \"flat abs\" or \"six-pack\" abs, though how long it take to get abs and maintaining them is no small feat.\r\nAs we age, muscle mass decreases and bell\u2026 [+8809 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "insider@insider.com (Sheryl Berk)",
+      "title": "When my husband turned 60, we started going to Florida for the winters. I hated it at first.",
+      "description": "When my husband turned 60 he suggested we spend our winters in Florida. I really struggled at first leaving New York, but we have found our balance.",
+      "url": "https://www.businessinsider.com/snowbirding-isnt-what-its-cracked-up-to-be-2025-7",
+      "urlToImage": "https://i.insider.com/683f429f9d73a0031e8dc908?width=1200&format=jpeg",
+      "publishedAt": "2025-07-28T18:42:02Z",
+      "content": "The second my husband turned 60, he decided it was time to join the million residents who spend part of the year (in our case, six months) in Florida. \r\nMy spouse sold me on the sun, sand, and surf a\u2026 [+4009 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "Aditi Kinkhabwala",
+      "title": "How Joe Flacco, 40 and unbothered, became the internet's favorite QB -- and maybe the Browns' best hope",
+      "description": "The former Super Bowl MVP let us into his South Jersey home as he geared up for training camp",
+      "url": "https://www.cbssports.com/nfl/news/how-joe-flacco-40-and-unbothered-became-the-internets-favorite-qb-and-maybe-the-browns-best-hope/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2025/07/25/526d08a8-9762-4d37-9f1b-850759b29fcf/thumbnail/1200x675/b4562257d9a5ded8964cd6b4053f60fb/joeflaccojoecool.jpg",
+      "publishedAt": "2025-07-28T18:41:34Z",
+      "content": "A few weeks before the 40-year-old Joe Flacco was set to report to his 18th NFL training camp, he invited us out to the corner of South Jersey where he and his wife grew up, where they are now raisin\u2026 [+6373 chars]"
+    }
+]
